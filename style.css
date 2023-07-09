@@ -116,3 +116,16 @@ nav a {
     font-weight: 400;
 
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.about-info{
+    text-align: center;
+}
